@@ -10,7 +10,7 @@ const title = document.querySelector('#title');
 const image = document.querySelector('#image');
 
 // Song titles
-const songs = ['Dil Lauta Do','Halki Si Barsaat','Lily'];
+const songs = ['Dil Lauta Do','Halki Si Barsaat','Lily','Sugar & Brownies'];
 
 // Keep track of song
 let songIndex = songs.length-1;
